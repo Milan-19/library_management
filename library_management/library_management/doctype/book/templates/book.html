@@ -1,0 +1,17 @@
+{% extends "templates/web.html" %}
+
+{% block page_content %}
+<div>
+    <div>
+        <div>
+            <h1>{{ doc.title }}</h1>
+            <h4>By {{ doc.author }}</h4>
+            <p><strong>Genre:</strong> {{ doc.genre }} | <strong>ISBN:</strong> {{ doc.isbn }}</p> {% if
+            doc.is_available %} <span>Available for Borrowing</span> {% else %} <span>Currently Issued</span>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+<!-- this is a sample default web page template -->

@@ -1,0 +1,12 @@
+/* 1. Unmistakable test rule on the main body header */
+body {
+	border-top: 4px solid #28a745 !important;
+}
+/* 2. Target all variants of Frappe Form Header titles */
+.title-text,
+.editable-title,
+.form-header-title,
+.page-title {
+	border-left: 5px solid #28a745 !important;
+	padding-left: 10px !important;
+}
