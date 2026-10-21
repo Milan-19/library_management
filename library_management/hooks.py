@@ -11,15 +11,15 @@ app_license = "mit"
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
-# add_to_apps_screen = [
-# 	{
-# 		"name": "library_management",
-# 		"logo": "/assets/library_management/logo.png",
-# 		"title": "Library Management",
-# 		"route": "/library_management",
-# 		"has_permission": "library_management.api.permission.has_app_permission"
-# 	}
-# ]
+add_to_apps_screen = [
+	{
+		"name": "library_management",
+		"logo": "/assets/library_management/images/logo.png",
+		"title": "Library Management",
+		"route": "/desk/library",
+		# "has_permission": "library_management.api.permission.has_app_permission"
+	}
+]
 
 # Includes in <head>
 # ------------------

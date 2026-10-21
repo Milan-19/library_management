@@ -1,0 +1,64 @@
+{
+ "charts": [],
+ "content": "[{\"id\": \"4FoXg0HAw3\", \"type\": \"header\", \"data\": {\"text\": \"\\u003cspan class=\\\"h4\\\"\\u003eWelcome to the Library workspace\\u003c/span\\u003e\", \"col\": 12}}, {\"id\": \"Y4w3jF-lC5\", \"type\": \"paragraph\", \"data\": {\"text\": \"Click on the \\u22ef menu to edit\", \"col\": 12}}, {\"id\": \"RzR_vH_w_C\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Library Settings\", \"col\": 3}}, {\"id\": \"FzYJaXr5Hm\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Book Issue\", \"col\": 3}}, {\"id\": \"JhSI_aI1ky\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Book\", \"col\": 3}}, {\"id\": \"ncPkiiKGPY\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Library Member\", \"col\": 3}}]",
+ "creation": "2026-10-21 15:25:08.445450",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "grid",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Library",
+ "link_type": "DocType",
+ "links": [],
+ "modified": "2026-10-21 15:42:23.524331",
+ "modified_by": "Administrator",
+ "module": "Library Management",
+ "name": "Library",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 57.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Library Settings",
+   "link_to": "Library Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Book Issue",
+   "link_to": "Book Issue",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Book",
+   "link_to": "Book",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Library Member",
+   "link_to": "Library Member",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "standard": 1,
+ "title": "Library",
+ "type": "Workspace"
+}
